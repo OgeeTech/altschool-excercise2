@@ -247,7 +247,7 @@ font-weight: 800; */
   max-width: 390px;
   height: auto;
   top: 80px;
-  left: 50%;
+  
   transform: translateX(-50%);
   background: white;
   padding: 80px 20px 20px 20px;
