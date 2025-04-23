@@ -242,7 +242,7 @@ font-weight: 800; */
     box-sizing: border-box;
     border-bottom: solid 8px #999999;
     z-index: 10; */
-  position: absolute;
+  
   width: 90%;
   max-width: 390px;
   height: auto;
